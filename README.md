@@ -1,4 +1,4 @@
-# Tor Hidden Service Buildpack for Heroku
+# Tor Hidden Service Buildpack for Heroku [UPDATED]
 
 This buildpack sets up a Tor hidden service for your app on Heroku.
 
