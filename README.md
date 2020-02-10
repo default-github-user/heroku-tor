@@ -1,4 +1,6 @@
-# Tor Hidden Service Buildpack for Heroku [UPDATED]
+# Tor Hidden Service Buildpack for Heroku - [UPDATED] 
+
+# This Buildpack was updated by default-github-user. For instructions how to use latest build consult update-howto.md
 
 This buildpack sets up a Tor hidden service for your app on Heroku.
 
